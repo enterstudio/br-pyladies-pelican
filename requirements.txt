@@ -3,3 +3,4 @@ Markdown==2.6.7
 ghp-import==0.4.1
 PyYAML==3.12
 beautifulsoup4==4.5.1
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
